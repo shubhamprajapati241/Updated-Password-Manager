@@ -13,6 +13,7 @@ It has a 3 layered security :
 2. Encrypt your password in Hash code 
 3. Secure local storage
 
-![1234](https://user-images.githubusercontent.com/61042463/116235309-4f688d00-a77b-11eb-81d6-a8283f31fcc0.PNG)
 ![12](https://user-images.githubusercontent.com/61042463/116235315-5099ba00-a77b-11eb-846b-55e56cab0351.PNG)
 ![123](https://user-images.githubusercontent.com/61042463/116235318-51325080-a77b-11eb-9a85-233e93191c6b.PNG)
+![1234](https://user-images.githubusercontent.com/61042463/116235309-4f688d00-a77b-11eb-81d6-a8283f31fcc0.PNG)
+
